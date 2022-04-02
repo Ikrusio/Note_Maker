@@ -1,0 +1,8 @@
+[
+{"title":"Note1","body":"Fate Stay Night"},
+{"title":"Note2","body":"Demon layer"},
+{"title":"Note3","body":"Noragami Argato"},
+{"title":"Note4","body":"Jujutsu Kaisen"},
+{"title":"Note5","body":"Akame Ga Kill"},
+{"title":"Note6","body":"Tokyo Ghoul"}
+]
